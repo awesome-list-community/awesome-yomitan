@@ -37,6 +37,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows. 
 - [pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries (which supports converting Yomitan dictionaries).
 - [yomi2mobi](https://github.com/ttu-ttu/yomi2mobi) - Convert Yomichan dictionary to Kindle dictionary (MOBI) 
+- [LinguaClip](https://github.com/Samuelxiaozhuofeng/LinguaClip) - Desktop app (Mac/Windows) for line-by-line dictation practice with any video or podcast, with word lookup in your own Yomitan dictionaries.
 
 ## Guides
 - [PrettyYomitanCards](https://github.com/99-Knots/PrettyYomitanCards) -  A humble attempt to create a visually pleasing and highly functional Anki card template that easily integrates with the Yomitan browser extension 
