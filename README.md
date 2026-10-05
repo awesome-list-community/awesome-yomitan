@@ -36,7 +36,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Yomi-Reader](http://reader.shaddy.dev/) - Simple web app to read Japanese EPUBs with Yomichan dictionaries 
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows. 
 - [pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries (which supports converting Yomitan dictionaries).
-- [yomi2mobi](https://github.com/ttu-ttu/yomi2mobi) - Convert Yomichan dictionary to Kindle dictionary (MOBI) 
+- [yomi2mobi](https://github.com/ttu-ttu/yomi2mobi) - Convert Yomichan dictionary to Kindle dictionary (MOBI)
+- [YuzuLingo](https://yuzulingo.com) - Browser extension for local OCR and hover lookups with Yomitan over hardcoded video subtitles.
 
 ## Guides
 - [PrettyYomitanCards](https://github.com/99-Knots/PrettyYomitanCards) -  A humble attempt to create a visually pleasing and highly functional Anki card template that easily integrates with the Yomitan browser extension 
